@@ -16,7 +16,7 @@ This project contains these endpoints implementation:
 
 2. **/api/v1/auth/authenticate**
 
-   This endpoint is used to authenticate the payload using EMAIL and PASSWORD.
+   This endpoint is used to authenticate the user using EMAIL and PASSWORD.
 
    Payload: {
     "email": "akhil@gmail.com",
